@@ -1,0 +1,67 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: rgb(146, 187, 197);
+}
+
+.header{
+    background-color: rgb(165, 243, 248);
+    height: 70px;
+}
+.logo{
+    float: left; /*superposisicion de un elemeto como si estuviera flotando*/
+    padding: 10px;
+    
+}
+.menu{
+    float: right;
+    margin: 24px;
+}
+
+.menu a{
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+}
+
+
+/*.premios{
+    margin: 5px;
+    text-align: center;
+    padding: 5px;
+}
+
+.premios table{
+   
+    padding: 5px 100px ;
+    
+}
+
+.premios h3{
+    background-color:;
+    border: 2px solid rgb(97, 97, 158);
+    text-align: center;
+    padding: 15px 30px 15px 30px;
+    margin: 5px;
+    border-radius: 5px;
+    
+}*/
+
+.fotos{
+    width: 100px;
+}
+
+
+.footer{
+    background-color: rgb(44, 127, 141);
+    color: rgb(250, 249, 250);
+    text-align: center;
+    padding: 20px 100px 70px 100px; 
+}
+
